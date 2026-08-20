@@ -2,7 +2,7 @@
 <img
   src="https://render.gitanimals.org/farms/sumnunus"
   width="400"
-  height="300"
+  height="200"
 />
 </a>
   
